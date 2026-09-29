@@ -1,0 +1,10 @@
+1790705288s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/processing/VISp_1/dff_timeseries/dff_timeseries/data/.zarray?versionId=XrVaVMdLCM2TcvdMunqzZIrwA66gQ8p2
+1790705288s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=processing%2FVISp_1%2Fdff_timeseries%2Fdff_timeseries%2Fdata%2F.zarray&download=true
+1790705289s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/processing/VISp_1/event_timeseries/data/.zarray?versionId=27nCdiqOMi1j2jXZmD0YFOeHSip8xOE1
+1790705289s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=processing%2FVISp_1%2Fevent_timeseries%2Fdata%2F.zarray&download=true
+1790705294s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/processing/VISp_1/neuropil_corrected_timeseries/data/.zarray?versionId=zm_OrFCCSOZQv_8dfzdzW0c2dIywaaYo
+1790705294s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=processing%2FVISp_1%2Fneuropil_corrected_timeseries%2Fdata%2F.zarray&download=true
+1790705295s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/processing/VISp_1/neuropil_fluorescence_timeseries/data/.zarray?versionId=Ql7XztVILDdEv9NatPYcNA4Q8X8e56ts
+1790705295s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=processing%2FVISp_1%2Fneuropil_fluorescence_timeseries%2Fdata%2F.zarray&download=true
+1790705295s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/processing/VISp_1/raw_timeseries/ROI_fluorescence_timeseries/data/.zarray?versionId=yudPLDianQrwgypqv9llInRkPcjTTyuE
+1790705295s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=processing%2FVISp_1%2Fraw_timeseries%2FROI_fluorescence_timeseries%2Fdata%2F.zarray&download=true

@@ -1,0 +1,16 @@
+1790705275s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/intervals/drifting_gratings_presentations/contrast/.zarray?versionId=U28s1aWukrqkcn6W1c5w8VM3SPRzk9VM
+1790705275s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=intervals%2Fdrifting_gratings_presentations%2Fcontrast%2F.zarray&download=true
+1790705275s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/intervals/drifting_gratings_presentations/orientation/.zarray?versionId=puBROHU00O6ObEbaUfZlmPN.DuG2fw7F
+1790705275s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=intervals%2Fdrifting_gratings_presentations%2Forientation%2F.zarray&download=true
+1790705275s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/intervals/drifting_gratings_presentations/spatial_frequency/.zarray?versionId=.C4kscs7HIg51RsJYp2Sv3_kapuPGzQ_
+1790705275s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=intervals%2Fdrifting_gratings_presentations%2Fspatial_frequency%2F.zarray&download=true
+1790705275s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/intervals/drifting_gratings_presentations/start_time/.zarray?versionId=M.n4LcJOFe4YMGgjUyOC1cBULWYXiFE1
+1790705275s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=intervals%2Fdrifting_gratings_presentations%2Fstart_time%2F.zarray&download=true
+1790705275s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/intervals/drifting_gratings_presentations/start_time_uncorrected/.zarray?versionId=JD4IjxMF9yCIF8Wgk1lHKc0uO435o7WO
+1790705275s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=intervals%2Fdrifting_gratings_presentations%2Fstart_time_uncorrected%2F.zarray&download=true
+1790705276s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/intervals/drifting_gratings_presentations/stop_time/.zarray?versionId=8K4PG.Mvrus4T9DNz1ZKTCz2i0C2KJbg
+1790705276s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=intervals%2Fdrifting_gratings_presentations%2Fstop_time%2F.zarray&download=true
+1790705276s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/intervals/drifting_gratings_presentations/stop_time_uncorrected/.zarray?versionId=HxzxTdk4OCmV3xNnXhxqra52wuviy57r
+1790705276s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=intervals%2Fdrifting_gratings_presentations%2Fstop_time_uncorrected%2F.zarray&download=true
+1790705276s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/intervals/drifting_gratings_presentations/temporal_frequency/.zarray?versionId=OGuBGg9aRTffQ8Z1OqdmYDZstVl5aFXh
+1790705276s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=intervals%2Fdrifting_gratings_presentations%2Ftemporal_frequency%2F.zarray&download=true

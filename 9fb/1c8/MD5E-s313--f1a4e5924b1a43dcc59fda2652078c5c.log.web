@@ -1,0 +1,12 @@
+1790705331s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/processing/VISp_5/dff_timeseries/dff_timeseries/rois/.zarray?versionId=dFtRXrl.VswGdFGVZTVQOsbtyh5yKGhL
+1790705331s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=processing%2FVISp_5%2Fdff_timeseries%2Fdff_timeseries%2Frois%2F.zarray&download=true
+1790705331s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/processing/VISp_5/image_segmentation/roi_table/czstack_id/.zarray?versionId=le.ksKQCD2yin547Sz4aAjS7_PIJqAqU
+1790705331s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=processing%2FVISp_5%2Fimage_segmentation%2Froi_table%2Fczstack_id%2F.zarray&download=true
+1790705331s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/processing/VISp_5/image_segmentation/roi_table/id/.zarray?versionId=5JADaq_FMdn6HcnMaZhElLROBjcwQCkI
+1790705331s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=processing%2FVISp_5%2Fimage_segmentation%2Froi_table%2Fid%2F.zarray&download=true
+1790705339s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/processing/VISp_5/image_segmentation/roi_table/is_dendrite/.zarray?versionId=eG2qFalL9XEBjAg0fafn.GDE0CCk0dWb
+1790705339s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=processing%2FVISp_5%2Fimage_segmentation%2Froi_table%2Fis_dendrite%2F.zarray&download=true
+1790705339s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/processing/VISp_5/image_segmentation/roi_table/is_soma/.zarray?versionId=I4rGW5AMcDUYgqlJoh4zhPpUBkmipZlh
+1790705339s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=processing%2FVISp_5%2Fimage_segmentation%2Froi_table%2Fis_soma%2F.zarray&download=true
+1790705339s 1 https://dandiarchive.s3.amazonaws.com/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/processing/VISp_5/image_segmentation/roi_table/transcriptomics_row/.zarray?versionId=lnhxvjZvQk4KdTNySlJmIi1M0L.W9IJl
+1790705339s 1 https://api.dandiarchive.org/api/zarr/8d9433bc-5cd9-4eff-8e3f-468b30afaba6/files?prefix=processing%2FVISp_5%2Fimage_segmentation%2Froi_table%2Ftranscriptomics_row%2F.zarray&download=true
